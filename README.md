@@ -265,8 +265,8 @@ This is the custom template file for displaying single `songs` posts.
 
 ### License
 
-This plugin is licensed under the GPL2 license.
+This plugin is licensed under the MIT license.
 
 ### Author
 
-[Your Name](http://yourwebsite.com)
+[Everything For Jesus](http://efj.org.in)
