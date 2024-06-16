@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Song Lyrics Plugin
+Plugin Name: Song Lyrics
 Plugin URI: http://efj.org.in
 Description: A plugin to manage and display song lyrics with search and copy functionality.
 Version: 1.0
