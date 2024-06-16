@@ -262,6 +262,13 @@ This is the custom template file for displaying single `songs` posts.
 
 3. **Displaying Songs:**
    - Use the shortcode `[display_songs]` to display the song search and listing functionality on any page or post.
+4. ** Screenshots**
+   - <img width="332" alt="Screenshot 2024-06-16 at 8 35 42 PM" src="https://github.com/efjsocial/song-lyrics-plugin/assets/150701483/6d52b2bf-7a5c-4e8f-978b-e107d9f71cda">
+   - <img width="1166" alt="Screenshot 2024-06-16 at 8 36 09 PM" src="https://github.com/efjsocial/song-lyrics-plugin/assets/150701483/3073cf77-0514-4d83-9b85-82017e49ea45">
+   - <img width="686" alt="Screenshot 2024-06-16 at 8 35 57 PM" src="https://github.com/efjsocial/song-lyrics-plugin/assets/150701483/03d6beb2-56b0-4f8e-997d-31866e8d9c3c">
+
+
+
 
 ### License
 
